@@ -1,0 +1,2 @@
+> To clone the things : git clone cloning link
+> To save the changes : git add . git commit -m 'changed to commands.txt'
